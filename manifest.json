@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Leetcode Timer",
+    "version": "1.0",
+    "description": "Timer for Leetcode questions.",
+    
+    "icons": {
+        "128": "assets/images/icon128.png"
+    },
+
+    "page_action": {
+        "default_icon": {
+            "128": "assets/images/icon128.png"
+        },
+        "default_title": "Leetcode Timer",
+        "default_popup": "popup.html"
+    }
+    
+}
